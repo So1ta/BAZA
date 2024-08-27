@@ -61,7 +61,7 @@
 > [!IMPORTANT]
 > Язык бота - Python 3.12
 >
-> В файле bot.py вы должны вписать ваш GITHUB_TOKEN, GITHUB_USERNAME, GITHUB_REPOSITORY, BOT_TOKEN в следующих строчках:
+> В файле bot.py вы должны вписать ваш GITHUB_TOKEN, GITHUB_USERNAME, GITHUB_REPOSITORY, YOUR_BOT_TOKEN(токен бота телеграмм) в следующих строчках:
 > ```
 > # Ваши данные для GitHub
 > GITHUB_TOKEN = "GITHUB_TOKEN"
